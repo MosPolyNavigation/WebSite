@@ -5,6 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>MospolyNavigator</title>
+    <script defer>function pasteCss() {
+        let $planDocument = document.querySelector('.plan').contentDocument
+        
+        let linkXmlToStylesheet = document.createElement('style') //тэг для задания стиля в свг
+        linkXmlToStylesheet.innerHTML = `@import url(${'../plan-style.css'});`
+        
+        let $svgPlan = $planDocument.querySelector('svg')
+        $svgPlan.prepend(linkXmlToStylesheet)
+    }
+    </script>
 </head>
 
 <body>
@@ -16,7 +26,7 @@
     <section class="plan-and-scale">
         <h2>Карта</h2>
         <div class="map-objects">
-            <object data="/PK-24.svg" type="image/svg+xml">
+            <object class="plan" data="assets/PK-24.svg" type="image/svg+xml" onload="pasteCss()">
                 Запасной текст, который будет отображаться, если браузер не может загрузить изображение
                 <p>Здесь должно быть изображение, но ваш браузер не поддерживает HTML5.</p>
             </object>

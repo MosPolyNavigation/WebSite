@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: GothamSSm;
-	src: url(../resources/fonts/GothamXNarrow-Bold.woff2);
+	src: url('assets/fonts/GothamXNarrow-Bold.woff2');
 	font-weight: bold;
 	font-style: normal;
 }
