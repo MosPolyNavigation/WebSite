@@ -1,0 +1,41 @@
+/*noinspection ALL*/
+* {
+	transition: fill .25s ease, fill-opacity .25s ease;
+}
+
+@font-face {
+	font-family: GothamSSm;
+	src: url('assets/fonts/GothamXNarrow-Bold.woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/*noinspection ALL,CssUnusedSymbol*/
+.auditorium:hover:not(.selected) {
+	fill: #3D4356;
+}
+
+/*noinspection ALL*/
+.selected {
+	fill: #4A5598;
+}
+
+.selected-entrance {
+	fill-opacity: 1;
+}
+
+.entrance:not(.selected-entrance) {
+	fill-opacity: 0;
+}
+
+.entrance {
+	pointer-events: none;
+}
+
+text {
+	pointer-events: none;
+}
+
+/*.entrance:hover {*/
+/*	fill-opacity: 1;*/
+/*}*/

@@ -1,30 +1,68 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>MospolyNavigator</title>
+    <script defer>function pasteCss() {
+        let $planDocument = document.querySelector('.plan').contentDocument
+        
+        let linkXmlToStylesheet = document.createElement('style') //тэг для задания стиля в свг
+        linkXmlToStylesheet.innerHTML = `@import url(${'../plan-style.css'});`
+        
+        let $svgPlan = $planDocument.querySelector('svg')
+        $svgPlan.prepend(linkXmlToStylesheet)
+    }
+    </script>
 </head>
+
 <body>
 <!--    Верхняя панель навигации    -->
     <nav class="top-nav">
-    
+
     </nav>
     
 <!--    Объекты карты, план, кнопки масштаба    -->
     <section class="plan-and-scale">
         <h2>Карта</h2>
         <div class="map-objects">
-        
+            <object class="plan" data="assets/PK-24.svg" type="image/svg+xml" onload="pasteCss()" style="transform:scale(1) translateX(-400px) translateY(-60px);">
+                Запасной текст, который будет отображаться, если браузер не может загрузить изображение
+                <p>Здесь должно быть изображение, но ваш браузер не поддерживает HTML5.</p>
+            </object>
         </div>
         <div class="scale-buttons">
-        
+            <button class="scale-button">
+                <img src="/plan/img/button-plus.svg" alt="">
+            </button>
+            <button class="scale-button">
+                <img src="/plan/img/button-minus.svg" alt="">
+            </button>
+        </div>
+        <div class="floors-buttons">
+            <button class="floor-button">
+                1
+            </button>
+            <button class="floor-button">
+                2
+            </button>
+            <button class="floor-button">
+                3
+            </button>
+            <button class="floor-button">
+                4
+            </button>
+            <button class="floor-button">
+                5
+            </button>
         </div>
     </section>
-    
-    
+
+
     <section class="bottom-and-cards">
-    
+
     </section>
 </body>
+
 </html>
