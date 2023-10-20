@@ -1,0 +1,316 @@
+<svg width="2318" height="1119" viewBox="0 0 2318 1119" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="PK-24">
+        <g id="Stairs">
+            <rect id="PK-24-S5" x="1721" y="7" width="170" height="128" fill="#23242B"/>
+            <path id="PK-24-S3" d="M1576 613H1891V792H1636V706H1576V613Z" fill="#23242B"/>
+            <path id="PK-24-S2" d="M756 613H419V792H696V706H756V613Z" fill="#23242B"/>
+            <rect id="PK-24-S1" x="1094" y="519" width="122" height="163" fill="#23242B"/>
+            <rect id="Rectangle 55" x="419" y="87" width="188" height="128" fill="#23242B"/>
+        </g>
+        <g id="Auditoriums">
+            <rect id="PK-2415" x="321" y="912" width="435" height="200" fill="#3B3C41"/>
+            <rect id="PK-2401" x="1166" y="787" width="410" height="325" fill="#3B3C41"/>
+            <rect id="PK-2402" class="auditorium" x="1216" y="547" width="260" height="135" fill="#3B3C41"/>
+            <rect id="PK-2412" x="834" y="547" width="260" height="135" fill="#3B3C41"/>
+            <path id="PK-2411" d="M871 787H1166V1112H918V1051H871V787Z" fill="#3B3C41"/>
+            <path id="PK-24-13" d="M871 787H756V1112H918V1051H871V787Z" fill="#3B3C41"/>
+            <rect id="PK-2403" x="1576" y="907" width="430" height="205" fill="#3B3C41"/>
+            <rect id="PK-2405" x="2001" y="737" width="310" height="335" fill="#3B3C41"/>
+            <rect id="PK-2407" x="2001" y="397" width="310" height="340" fill="#3B3C41"/>
+            <rect id="PK-2409" x="2001" y="7" width="310" height="390" fill="#3B3C41"/>
+            <rect id="PK-2416" x="419" y="362" width="145" height="115" fill="#3B3C41"/>
+            <rect id="PK-2418" x="419" y="215" width="145" height="147" fill="#3B3C41"/>
+            <rect id="PK-2414" x="419" y="477" width="145" height="136" fill="#3B3C41"/>
+            <rect id="PK-2404" x="1746" y="487" width="145" height="127" fill="#3B3C41"/>
+            <rect id="PK-2406" x="1746" y="363" width="145" height="127" fill="#3B3C41"/>
+            <rect id="PK-2408" x="1746" y="280" width="145" height="83" fill="#3B3C41"/>
+            <rect id="PK-2410" x="1746" y="143" width="145" height="127" fill="#3B3C41"/>
+            <rect id="PK-2423" x="6" y="87" width="320" height="345" fill="#3B3C41"/>
+            <rect id="PK-2419" x="6" y="432" width="320" height="255" fill="#3B3C41"/>
+            <rect id="PK-2417" x="6" y="687" width="320" height="201" fill="#3B3C41"/>
+            <rect id="PK-2417B" x="146" y="888" width="175" height="184" fill="#3B3C41"/>
+            <rect id="PK-2417A" x="7" y="888" width="139" height="184" fill="#3B3C41"/>
+            <rect id="PK-2410_2" x="1746" y="135" width="145" height="142" fill="#3B3C41"/>
+            <rect id="PK-2408_2" x="1746" y="277" width="145" height="89" fill="#3B3C41"/>
+            <rect id="PK-2406_2" x="1746" y="366" width="145" height="121" fill="#3B3C41"/>
+        </g>
+        <g id="Walls">
+            <path id="Vector 27" d="M1886 487H1746" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 28" d="M1886 366H1746" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 29" d="M1886 277H1746" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 30" d="M1906 135H1746" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 18"
+                  d="M1216 547V517H1092V547H837V612H562V217H607V87H7V1072H319V1112H2008V1072H2311V7H1721V137H1746V612H1471V547H1216Z"
+                  stroke="#D9D9D9" stroke-width="14"/>
+            <path id="Vector 51" d="M321 687H7" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 52" d="M321 432H7" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 19" d="M1214 547V677V727" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 40" d="M1094 547V677V727" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 21" d="M1166 1112V792H1307M1352 792H1576V1112" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 20" d="M1216 677H1302M1347 677H1481V612" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 41" d="M1094 677H937M892 677H829V612" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M1891 32V7H1881V32H1891ZM1891 112H1881V184H1891V112ZM1891 229H1881V299H1891V229ZM1891 344H1881V405H1891V344ZM1891 450H1881V527H1891V450ZM1891 572H1881V612H1891V572Z"
+                  fill="#D9D9D9"/>
+            <path id="Vector 23" d="M1576 612V706.5H1635.5V792H1906" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 42" d="M756 612V706.5H696.5V792H404" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 24" d="M1746 614H1906" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 43" d="M564 614H404" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 32" d="M2311 397H2006" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 33" d="M2311 737H2006" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M2001 882V1072H2011V882H2001ZM2001 837H2011V504H2001V837ZM2001 459H2011V332H2001V459ZM2001 287H2011V7H2001V287Z"
+                  fill="#D9D9D9"/>
+            <path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M1881 743V792H1891V743H1881ZM1881 663H1891V614H1881V663Z" fill="#D9D9D9"/>
+            <path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M419 743V792H429V743H419ZM419 663V614H429V663H419Z" fill="#D9D9D9"/>
+            <path id="Vector 44" d="M424 477H562" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 45" d="M424 362H562" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M1939 917V907H1576V917H1939ZM1984 917H2006V907H1984V917Z" fill="#D9D9D9"/>
+            <path id="Vector 36" d="M566 215H404" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Vector 47" d="M146 888V1072" stroke="#D9D9D9" stroke-width="6"/>
+            <path id="Vector 50" d="M871 792V1052H917.5V1112" stroke="#D9D9D9" stroke-width="10"/>
+            <path id="Subtract_6" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M969 787H836V797H969V787ZM1014 797H1166V787H1014V797ZM756 787H791V797H761V1112H751V792V787H756Z"
+                  fill="#D9D9D9"/>
+            <path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M366 912H321V922H366V912ZM411 922H756V912H411V922Z" fill="#D9D9D9"/>
+            <path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M63 885H7V891H63V885ZM93 891H218V885H93V891ZM321 891H248V885H321V891Z" fill="#D9D9D9"/>
+            <path id="Subtract_9" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M316 872V1112H326V872H316ZM316 827H326V511H316V827ZM316 466H326V407H316V466ZM316 362V87H326V362H316Z"
+                  fill="#D9D9D9"/>
+            <path id="Subtract_10" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M1115 682L1115 672H1094V682H1115ZM1195 682H1216V672H1195V682Z" fill="#D9D9D9"/>
+            <path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd"
+                  d="M419 263L419 192H429L429 263H419ZM419 308L419 402H429L429 308H419ZM419 447L419 507H429L429 447H419ZM419 614L419 552H429L429 614H419ZM429 112H419V94H429L429 112Z"
+                  fill="#D9D9D9"/>
+        </g>
+        <g id="Textes">
+            <text id="t-pr1315" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="128.277" y="268.62">&#x41f;&#x41a; 2421</tspan></text>
+            <text id="t-pr1315_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="128.02" y="568.62">&#x41f;&#x41a; 2419</tspan></text>
+            <text id="t-pr1315_3" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="129.07" y="796.62">&#x41f;&#x41a; 2417</tspan></text>
+            <text id="t-pr1315_4" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="500.488" y="1021.62">&#x41f;&#x41a; 2415</tspan></text>
+            <text id="t-pr1315_5" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="776.07" y="958.62">&#x41f;&#x41a; 2413</tspan></text>
+            <text id="t-pr1315_6" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="982.234" y="958.62">&#x41f;&#x41a; 2411</tspan></text>
+            <text id="t-pr1315_7" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="926.441" y="623.62">&#x41f;&#x41a; 2412</tspan></text>
+            <text id="t-pr1315_8" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1305.21" y="623.62">&#x41f;&#x41a; 2402</tspan></text>
+            <text id="t-pr1315_9" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1331.48" y="958.62">&#x41f;&#x41a; 2401</tspan></text>
+            <text id="t-pr1315_10" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1750.32" y="1018.62">&#x41f;&#x41a; 2403</tspan></text>
+            <text id="t-pr1315_11" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1777.47" y="559.62">&#x41f;&#x41a; 2404</tspan></text>
+            <text id="t-pr1315_12" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1777.15" y="435.62">&#x41f;&#x41a; 2406</tspan></text>
+            <text id="t-pr1315_13" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1777.24" y="330.62">&#x41f;&#x41a; 2408</tspan></text>
+            <text id="t-pr1315_14" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1780.05" y="215.62">&#x41f;&#x41a; 2410</tspan></text>
+            <text id="t-pr1315_15" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2115.17" y="210.62">&#x41f;&#x41a; 2409</tspan></text>
+            <text id="t-pr1315_16" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2116.42" y="564.62">&#x41f;&#x41a; 2407</tspan></text>
+            <text id="t-pr1315_17" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2116.14" y="913.62">&#x41f;&#x41a; 2405</tspan></text>
+            <text id="t-pr1315_18" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="453.32" y="554.62">&#x41f;&#x41a; 2414</tspan></text>
+            <text id="t-pr1315_19" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="453.496" y="428.62">&#x41f;&#x41a; 2416</tspan></text>
+            <text id="t-pr1315_20" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="453.09" y="297.62">&#x41f;&#x41a; 2418</tspan></text>
+            <text id="t-pr1315_21" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="189.195" y="989.62">&#x41f;&#x41a; 2417&#x411;</tspan></text>
+            <text id="t-pr1315_22" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm"
+                  font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="32.2148" y="989.62">&#x41f;&#x41a; 2417&#x410;</tspan></text>
+        </g>
+        <g id="Components">
+            <g id="&#208;&#155;&#208;&#181;&#209;&#129;&#209;&#130;&#208;&#189;&#208;&#184;&#209;&#134;&#208;&#176;">
+                <g id="&#208;&#146;&#208;&#178;&#208;&#181;&#209;&#128;&#209;&#133;">
+                    <path id="Vector 54" d="M1144 595H1134V605H1124V615H1109" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 6">
+                        <path id="Vector 55" d="M1142 579L1118 603" stroke="url(#paint0_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56" d="M1144 577L1133 582H1138L1139 583V588L1144 577Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <g id="&#208;&#146;&#208;&#189;&#208;&#184;&#208;&#183;">
+                    <path id="Vector 54_2" d="M1166 615H1176V605H1186V595H1201" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 5">
+                        <path id="Vector 55_2" d="M1168 601L1192 577" stroke="url(#paint1_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_2" d="M1166 603L1177 598H1172L1171 597V592L1166 603Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <path id="Vector 57" d="M1155 539V657" stroke="#D9D9D9" stroke-width="2"/>
+            </g>
+            <g id="&#208;&#155;&#208;&#181;&#209;&#129;&#209;&#130;&#208;&#189;&#208;&#184;&#209;&#134;&#208;&#176;_2">
+                <g id="&#208;&#146;&#208;&#178;&#208;&#181;&#209;&#128;&#209;&#133;_2">
+                    <path id="Vector 54_3" d="M1792 674H1782V684H1772V694H1757" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 6_2">
+                        <path id="Vector 55_3" d="M1790 658L1766 682" stroke="url(#paint2_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_3" d="M1792 656L1781 661H1786L1787 662V667L1792 656Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <g id="&#208;&#146;&#208;&#189;&#208;&#184;&#208;&#183;_2">
+                    <path id="Vector 54_4" d="M1757 748H1767V738H1777V728H1792" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 5_2">
+                        <path id="Vector 55_4" d="M1759 734L1783 710" stroke="url(#paint3_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_4" d="M1757 736L1768 731H1763L1762 730V725L1757 736Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <path id="Vector 57_2" d="M1859 702L1690 702" stroke="#D9D9D9" stroke-width="2"/>
+            </g>
+            <g id="&#208;&#155;&#208;&#181;&#209;&#129;&#209;&#130;&#208;&#189;&#208;&#184;&#209;&#134;&#208;&#176;_3">
+                <g id="&#208;&#146;&#208;&#178;&#208;&#181;&#209;&#128;&#209;&#133;_3">
+                    <path id="Vector 54_5" d="M556 674H546V684H536V694H521" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 6_3">
+                        <path id="Vector 55_5" d="M554 658L530 682" stroke="url(#paint4_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_5" d="M556 656L545 661H550L551 662V667L556 656Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <g id="&#208;&#146;&#208;&#189;&#208;&#184;&#208;&#183;_3">
+                    <path id="Vector 54_6" d="M521 748H531V738H541V728H556" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 5_3">
+                        <path id="Vector 55_6" d="M523 734L547 710" stroke="url(#paint5_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_6" d="M521 736L532 731H527L526 730V725L521 736Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <path id="Vector 57_3" d="M623 702L454 702" stroke="#D9D9D9" stroke-width="2"/>
+            </g>
+            <g id="&#208;&#155;&#208;&#181;&#209;&#129;&#209;&#130;&#208;&#189;&#208;&#184;&#209;&#134;&#208;&#176;_4">
+                <g id="&#208;&#146;&#208;&#178;&#208;&#181;&#209;&#128;&#209;&#133;_4">
+                    <path id="Vector 54_7" d="M1822 43H1812V53H1802V63H1787" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 6_4">
+                        <path id="Vector 55_7" d="M1820 27L1796 51" stroke="url(#paint6_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_7" d="M1822 25L1811 30H1816L1817 31V36L1822 25Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <g id="&#208;&#146;&#208;&#189;&#208;&#184;&#208;&#183;_4">
+                    <path id="Vector 54_8" d="M1787 117H1797V107H1807V97H1822" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 5_4">
+                        <path id="Vector 55_8" d="M1789 103L1813 79" stroke="url(#paint7_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_8" d="M1787 105L1798 100H1793L1792 99V94L1787 105Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <path id="Vector 57_4" d="M1869 71L1741 71" stroke="#D9D9D9" stroke-width="2"/>
+            </g>
+            <g id="&#208;&#155;&#208;&#181;&#209;&#129;&#209;&#130;&#208;&#189;&#208;&#184;&#209;&#134;&#208;&#176;_5">
+                <g id="&#208;&#146;&#208;&#178;&#208;&#181;&#209;&#128;&#209;&#133;_5">
+                    <path id="Vector 54_9" d="M530 123H520V133H510V143H495" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 6_5">
+                        <path id="Vector 55_9" d="M528 107L504 131" stroke="url(#paint8_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_9" d="M530 105L519 110H524L525 111V116L530 105Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <g id="&#208;&#146;&#208;&#189;&#208;&#184;&#208;&#183;_5">
+                    <path id="Vector 54_10" d="M495 197H505V187H515V177H530" stroke="#D9D9D9" stroke-width="2"/>
+                    <g id="Group 5_5">
+                        <path id="Vector 55_10" d="M497 183L521 159" stroke="url(#paint9_linear_147_290)"
+                              stroke-width="2"/>
+                        <path id="Vector 56_10" d="M495 185L506 180H501L500 179V174L495 185Z" fill="#D9D9D9"/>
+                    </g>
+                </g>
+                <path id="Vector 57_5" d="M583 151L443 151" stroke="#D9D9D9" stroke-width="2"/>
+            </g>
+        </g>
+        <g id="Entrances">
+            <circle id="1" cx="321" cy="384" r="10" fill="#9CBBFF"/>
+            <circle id="27" cx="424" cy="287" r="10" fill="#9CBBFF"/>
+            <circle id="2" cx="321" cy="489" r="10" fill="#9CBBFF"/>
+            <circle id="3" cx="321" cy="849" r="10" fill="#9CBBFF"/>
+            <circle id="4" cx="388" cy="917" r="10" fill="#9CBBFF"/>
+            <circle id="5" cx="814" cy="792" r="10" fill="#9CBBFF"/>
+            <circle id="6" cx="992" cy="792" r="10" fill="#9CBBFF"/>
+            <circle id="7" cx="915" cy="677" r="10" fill="#9CBBFF"/>
+            <circle id="8" cx="1329" cy="792" r="10" fill="#9CBBFF"/>
+            <circle id="9" cx="1155" cy="677" r="10" fill="#9CBBFF"/>
+            <circle id="10" cx="1325" cy="677" r="10" fill="#9CBBFF"/>
+            <circle id="11" cx="1886" cy="704" r="10" fill="#9CBBFF"/>
+            <circle id="12" cx="1886" cy="549" r="10" fill="#9CBBFF"/>
+            <circle id="13" cx="1886" cy="427" r="10" fill="#9CBBFF"/>
+            <circle id="14" cx="1886" cy="321" r="10" fill="#9CBBFF"/>
+            <circle id="15" cx="1886" cy="206" r="10" fill="#9CBBFF"/>
+            <circle id="16" cx="1886" cy="71" r="10" fill="#9CBBFF"/>
+            <circle id="17" cx="2006" cy="310" r="10" fill="#9CBBFF"/>
+            <circle id="18" cx="2006" cy="481" r="10" fill="#9CBBFF"/>
+            <circle id="19" cx="2006" cy="859" r="10" fill="#9CBBFF"/>
+            <circle id="20" cx="1962" cy="912" r="10" fill="#9CBBFF"/>
+            <circle id="21" cx="424" cy="702" r="10" fill="#9CBBFF"/>
+            <circle id="22" cx="424" cy="530" r="10" fill="#9CBBFF"/>
+            <circle id="23" cx="424" cy="424" r="10" fill="#9CBBFF"/>
+            <circle id="24" cx="424" cy="151" r="10" fill="#9CBBFF"/>
+            <circle id="25" cx="233" cy="888" r="10" fill="#9CBBFF"/>
+            <circle id="26" cx="78" cy="888" r="10" fill="#9CBBFF"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear_147_290" x1="1146" y1="575" x2="1108.5" y2="612.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear_147_290" x1="1164" y1="605" x2="1201.5" y2="567.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint2_linear_147_290" x1="1794" y1="654" x2="1756.5" y2="691.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint3_linear_147_290" x1="1755" y1="738" x2="1792.5" y2="700.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint4_linear_147_290" x1="558" y1="654" x2="520.5" y2="691.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint5_linear_147_290" x1="519" y1="738" x2="556.5" y2="700.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint6_linear_147_290" x1="1824" y1="23" x2="1786.5" y2="60.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint7_linear_147_290" x1="1785" y1="107" x2="1822.5" y2="69.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint8_linear_147_290" x1="532" y1="103" x2="494.5" y2="140.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint9_linear_147_290" x1="493" y1="187" x2="530.5" y2="149.5"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D9D9D9"/>
+            <stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+</svg>
