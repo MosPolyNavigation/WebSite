@@ -140,3 +140,7 @@ button {
 	height: 40px;
 	border-radius: 6px;
 }
+
+.plan {
+	transition: all .3s ease-out;
+}

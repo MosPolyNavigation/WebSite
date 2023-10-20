@@ -10,7 +10,7 @@
         <g id="Auditoriums">
             <rect id="PK-2415" x="321" y="912" width="435" height="200" fill="#3B3C41"/>
             <rect id="PK-2401" x="1166" y="787" width="410" height="325" fill="#3B3C41"/>
-            <rect id="PK-2402" x="1216" y="547" width="260" height="135" fill="#3B3C41"/>
+            <rect id="PK-2402" class="auditorium" x="1216" y="547" width="260" height="135" fill="#3B3C41"/>
             <rect id="PK-2412" x="834" y="547" width="260" height="135" fill="#3B3C41"/>
             <path id="PK-2411" d="M871 787H1166V1112H918V1051H871V787Z" fill="#3B3C41"/>
             <path id="PK-24-13" d="M871 787H756V1112H918V1051H871V787Z" fill="#3B3C41"/>
