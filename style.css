@@ -1,22 +1,3 @@
-/* Используемые цвета *
-#5F6DEC
-#40C5C5
-#EE9E44
-#9CBBFF
-#EC5F6B
-#797979
-#A85FEC
-#2E2E2E
-#3A3A3A
-#BDBDBD
-#232323
-#6290E4
-#F67B86
-#FFFFFF
-#F6F6F6
-#E7E7E7
-/
-
 @font-face {
 	font-family: "Montserrat";
 	src: url("assets/fonts/Montserrat_regular.ttf") format("truetype");
@@ -40,12 +21,18 @@
 /*	font-style: normal;*/
 /*	font-weight: lighter;*/
 /*}*/
-@font-face {
-    font-family: "Montserrat";
-    src: url(assets/fonts/Montserrat_medium.ttf) format("truetype");
 
-    font-style: normal;
-    font-weight: lighter;
+/* Reset */
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+
+	font-family: "Montserrat", "Segoe UI", sans-serif;
+}
+
+li {
+	list-style-type: none;
 }
 
 body{
@@ -97,21 +84,15 @@ body{
 }
 
  .button-blue{
-  border: 2px solid;
-  font-family: "Montserrat";
-  border-color: #5F6DEC;
-}
+	 border: 2px solid #5F6DEC;
+ }
 
 .button-yellow{
-  border: 2px solid;
-  font-family: "Montserrat";
-  border-color: #EE9E44;
+	border: 2px solid #EE9E44;
 }
 
 .button-purple{
-  border: 2px solid;
-  font-family: "Montserrat";
-  border-color: #A85FEC;
+	border: 2px solid #A85FEC;
 }
 
 .inputs{
@@ -122,13 +103,11 @@ body{
 }
 
 .input {
-  font-family: "Montserrat";
   box-sizing: border-box;
   width: 140px;
   height: 60px;
   background-color: #797979;
-  border-style: none;
-  border: 0.5px solid #797979;
+  border: 1px solid #797979;
   border-radius: 10px;
   padding: 21px;
   color: white;
@@ -139,18 +118,7 @@ body{
 }
 
 
-/* Reset */
-* {
-	margin: 0;
-	padding: 0;
-	text-decoration: none;
 
-	font-family: "Montserrat", "Segoe UI", sans-serif;
-}
-
-li {
-	list-style-type: none;
-}
 
 /*Смартфоны */
 @media screen and (min-width: 320px){
@@ -179,8 +147,7 @@ li {
 button {
 	border: none;
 	display: inline-block;
-	background-color: transparent;
-	background: none;
+	background: transparent none;
 	cursor: pointer;
 	box-shadow: none;
 }
