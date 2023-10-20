@@ -14,6 +14,12 @@
 	font-weight: bold;
 }
 
+:root {
+	/*ЦВЕТА*/
+	--background: #1e1e1e;
+	--layout-background: var(--layout-background);
+}
+
 /*@font-face {*/
 /*	font-family: "Montserrat";*/
 /*	src: url(assets/fonts/Montserrat_medium.ttf) format("truetype");*/
@@ -36,7 +42,7 @@ li {
 }
 
 body{
-  background-color: #2E2E2E;
+  background-color: var(--background);
   position: relative;
 }
 
@@ -57,7 +63,7 @@ body{
 }
 
 .arrow{
-  background-color: #232323;
+  background-color: var(--layout-background);
   border-radius: 15px 15px 0 0;
   border-style: none;
   padding: 3px 0 2px;
@@ -79,7 +85,7 @@ body{
   min-width: 122px;
   min-height: 42px;
   border-radius: 10px;
-  background-color: #232323;
+  background-color: var(--layout-background);
   color: #EAEAEA;
 }
 
