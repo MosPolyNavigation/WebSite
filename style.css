@@ -73,13 +73,15 @@ body,p,a,ul,li{
 }
 
 /*---------------plan---------------------*/
-button {
+button{
+  border: none;
   display: inline-block;
   background-color: transparent;
   background: none;
   cursor: pointer;
   box-shadow: none;
 }
+
 
 .plan-and-scale {
   position: relative;
